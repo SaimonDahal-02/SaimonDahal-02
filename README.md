@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/@saimondahal01" target="blank"><img src="https://img.shields.io/twitter/follow/saimondahal01?logo=twitter&style=for-the-badge" alt="saimondahal01" /></a> </p>
 
-- 🌱 I’m currently learning **PyTorch and TensorFlow**
+- 🌱 I’m currently learning **Natural Language Processing**
 
 - 📫 How to reach me **saimondahal66@gmail.com**
 
